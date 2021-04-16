@@ -3,7 +3,5 @@
 "description": "Welcome to Anvil Pool!",
 "ticker": "ANVIL",
 "homepage": "https://anvilpool.carrd.co",
-        "social": {
-            "twitter_handle": "AnvilPool"
-        }
+"extended": "https://git.io/JOCPt"
 }
